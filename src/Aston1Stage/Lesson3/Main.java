@@ -1,4 +1,4 @@
-package Aston1Stage.ThirdLesson;
+package Aston1Stage.Lesson3;
 
 import java.util.ArrayList;
 import java.util.List;

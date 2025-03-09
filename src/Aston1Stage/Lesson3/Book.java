@@ -1,4 +1,4 @@
-package Aston1Stage.ThirdLesson;
+package Aston1Stage.Lesson3;
 
 public class Book implements Comparable<Book> {
     String title;

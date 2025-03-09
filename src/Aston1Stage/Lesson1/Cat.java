@@ -1,4 +1,4 @@
-package Aston1Stage.FirstLesson;
+package Aston1Stage.Lesson1;
 
 public class Cat {
     private static int countCats;
